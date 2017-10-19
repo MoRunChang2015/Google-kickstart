@@ -6,3 +6,4 @@ solution to Google-kickstart
 Round | Problem | Status | Note
 ---| ---| --- | ---
 Paractice | Country Leader (A)| Correct|
+Paractice | herlock and Parentheses (C)| Correct|
