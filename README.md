@@ -5,7 +5,8 @@ solution to Google-kickstart
 
 Round | Problem | Status | Note
 ---| ---| --- | ---
-Paractice | Country Leader (A)| Correct|
-Paractice | Vote (B)| Correct|
-Paractice | herlock and Parentheses (C)| Correct|
-A | Square Counting (A)| Correct|
+Paractice | Country Leader (A)| Correct|String
+Paractice | Vote (B)| Correct| Math
+Paractice | herlock and Parentheses (C)| Correct| Math
+A | Square Counting (A)| Correct| Math
+B | Patterns Overlap (A)| Correct| DP
