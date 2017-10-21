@@ -10,3 +10,4 @@ Paractice | Vote (B)| Correct| Math
 Paractice | herlock and Parentheses (C)| Correct| Math
 A | Square Counting (A)| Correct| Math
 A | Patterns Overlap (B)| Correct| DP
+B | Math Encoder (A)| Correct| Math
