@@ -11,6 +11,6 @@ Paractice | herlock and Parentheses (C)| Correct| Math
 A | Square Counting (A)| Correct| Math
 A | Patterns Overlap (B)| Correct| DP
 B | Math Encoder (A)| Correct| Math
-G | Huge Numbers (A)| Correct(small)| Math
+G | Huge Numbers (A)| Correct| Math
 G | Cards Game (B) | Correct(small) | Math
 G | Matrix Cutting (C) | Correct | DP
